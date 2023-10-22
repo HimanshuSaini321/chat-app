@@ -18,7 +18,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 Clone the project
 
 ```bash
-
+  https://github.com/HimanshuSaini321/chat-app
 ```
 
 Go to the project directory
